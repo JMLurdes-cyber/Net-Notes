@@ -1,1 +1,0 @@
-This is the layer responsible of the encryption and decryption of data, alongside the translation of said data from human-readable formats to computer-readable ones and vice versa. It is commonly combined with the Application Layer.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The OSI Model/THE OSI MODEL.md",
+                "file": "Study Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,72 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "THE OSI MODEL"
-            }
-          },
-          {
-            "id": "eef4064eca56bc34",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7ec8d5c86960de3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69dc2142f39ac985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Devices/Networking devices.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Networking devices"
-            }
-          },
-          {
-            "id": "20e4fe40759ea464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Devices/Concepts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Concepts"
+              "title": "Study Index"
             }
           }
         ]
@@ -225,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "5d6a3aa82fd95727",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,24 +186,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "69dc2142f39ac985",
+  "active": "449ac34acdd348ae",
   "lastOpenFiles": [
+    "Study Index.md",
+    "Untitled.base",
+    "Networking+/Untitled",
+    "Networking+/The OSI model",
+    "Untitled.canvas",
+    "Networking+",
+    "2025-10-20.md",
     "Networking Devices/Concepts.md",
+    "Networking Devices/Untitled.md",
+    "The OSI Model/THE OSI MODEL.md",
+    "The OSI Model/Layer 1 - Physical.md",
     "Networking Devices/Networking devices.md",
     "The OSI Model/Layer 3 - Network.md",
-    "The OSI Model/THE OSI MODEL.md",
     "The OSI Model/Layer 2- Data Link.md",
     "Networking Devices",
     "The OSI Model/Layer 7 - Application.md",
     "The OSI Model/Layer 6 - Presentation.md",
     "The OSI Model/Layer 5 - Session.md",
-    "The OSI Model/Layer 1 - Physical.md",
     "The OSI Model/Layer 4- Transport.md",
     "The OSI Model",
-    "Untitled.md",
     "Welcome.md",
     "create a link.md"
   ]
