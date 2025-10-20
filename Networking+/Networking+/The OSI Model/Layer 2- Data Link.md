@@ -1,0 +1,3 @@
+This is the layer that takes cares of the basic network communications, being the one responsible for taking the data from the network and making it find the correct host in said network. Basically, it takes data from the routers and makes it find the correct device through the use of **Data Link Control**, using sub-layers like the **MAC - Media Access Control** (which is the number assigned to a network connector in a computer) or the **LLC - Logical Link Control**, responsible for translating protocols from the [[Layer 3 - Network]] to the layer.
+
+This layer is commonly called the **switching layer**.
