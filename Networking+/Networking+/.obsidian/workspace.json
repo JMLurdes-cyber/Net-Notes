@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "be55e686348bbfc7",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "3a2b110b514010d0",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1fae6d337c117011",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Index.md",
+                "file": "The OSI Model/Networking functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Study Index"
+              "title": "Networking functions"
             }
           }
         ]
@@ -191,13 +191,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "449ac34acdd348ae",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "The OSI Model/Designing the cloud.md",
+    "The OSI Model/Networking Devices.md",
+    "The OSI Model/Networking functions.md",
     "Study Index.md",
+    "Index/Networking +.md",
+    "The OSI Model/Untitled.md",
+    "Zattels/2025-10-21-Autonomy-as-a-principle.md",
+    "Zattels/20251020-The-Osi-Model-as-a-framework.md",
+    "Zattels/20251020-Networking-Devices.md",
+    "The OSI Model/The OSI Model.md",
+    "2051020-The-Osi-Model-as-a-framework.md",
+    "2025-10-21.md",
+    "Untitled.canvas",
+    "Untitled 1.base",
     "Untitled.base",
+    "Zattels",
+    "The Osi Model - Index.md",
+    "The OSI Model/Networking Devices - Concepts.md",
+    "Index",
+    "The OSI Model",
     "Networking+/Untitled",
     "Networking+/The OSI model",
-    "Untitled.canvas",
     "Networking+",
     "2025-10-20.md",
     "Networking Devices/Concepts.md",
@@ -212,8 +229,6 @@
     "The OSI Model/Layer 6 - Presentation.md",
     "The OSI Model/Layer 5 - Session.md",
     "The OSI Model/Layer 4- Transport.md",
-    "The OSI Model",
-    "Welcome.md",
-    "create a link.md"
+    "The OSI Model"
   ]
 }
