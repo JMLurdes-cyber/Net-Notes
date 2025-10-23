@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Index.md",
+                "file": "The OSI Model/Common Ports.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Study Index"
+              "title": "Common Ports"
             }
           }
         ]
@@ -191,20 +191,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "449ac34acdd348ae",
   "lastOpenFiles": [
-    "The OSI Model/Introduction to IP.md",
     "Index/Networking +.md",
-    "The OSI Model/Cloud Models.md",
-    "Zattels/20251022-Comfort and control.md",
-    "The OSI Model/Networking Devices.md",
+    "The OSI Model/Common Ports.md",
+    "The OSI Model/Introduction to IP.md",
     "The OSI Model/Designing the cloud.md",
+    "The OSI Model/Cloud Models.md",
+    "The OSI Model/Networking functions.md",
+    "The OSI Model/Networking Devices.md",
+    "2025-10-23.md",
+    "Study Index.md",
+    "Zattels/20251022-Comfort and control.md",
     "Zattels/20251020-The-Osi-Model-as-a-framework.md",
     "Zattels/20251020-Networking-Devices.md",
     "Zattels/2025-10-21-Autonomy-as-a-principle.md",
-    "Study Index.md",
     "The OSI Model/Untitled.md",
-    "The OSI Model/Networking functions.md",
     "The OSI Model/The OSI Model.md",
     "2051020-The-Osi-Model-as-a-framework.md",
     "2025-10-21.md",
@@ -226,9 +228,7 @@
     "The OSI Model/Layer 1 - Physical.md",
     "Networking Devices/Networking devices.md",
     "The OSI Model/Layer 3 - Network.md",
-    "The OSI Model/Layer 2- Data Link.md",
     "Networking Devices",
-    "The OSI Model/Layer 7 - Application.md",
     "The OSI Model"
   ]
 }
