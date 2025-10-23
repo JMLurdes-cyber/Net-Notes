@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The OSI Model/Networking functions.md",
+                "file": "Study Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Networking functions"
+              "title": "Study Index"
             }
           }
         ]
@@ -193,15 +193,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "The OSI Model/Designing the cloud.md",
-    "The OSI Model/Networking Devices.md",
-    "The OSI Model/Networking functions.md",
-    "Study Index.md",
+    "The OSI Model/Introduction to IP.md",
     "Index/Networking +.md",
-    "The OSI Model/Untitled.md",
-    "Zattels/2025-10-21-Autonomy-as-a-principle.md",
+    "The OSI Model/Cloud Models.md",
+    "Zattels/20251022-Comfort and control.md",
+    "The OSI Model/Networking Devices.md",
+    "The OSI Model/Designing the cloud.md",
     "Zattels/20251020-The-Osi-Model-as-a-framework.md",
     "Zattels/20251020-Networking-Devices.md",
+    "Zattels/2025-10-21-Autonomy-as-a-principle.md",
+    "Study Index.md",
+    "The OSI Model/Untitled.md",
+    "The OSI Model/Networking functions.md",
     "The OSI Model/The OSI Model.md",
     "2051020-The-Osi-Model-as-a-framework.md",
     "2025-10-21.md",
@@ -226,9 +229,6 @@
     "The OSI Model/Layer 2- Data Link.md",
     "Networking Devices",
     "The OSI Model/Layer 7 - Application.md",
-    "The OSI Model/Layer 6 - Presentation.md",
-    "The OSI Model/Layer 5 - Session.md",
-    "The OSI Model/Layer 4- Transport.md",
     "The OSI Model"
   ]
 }
