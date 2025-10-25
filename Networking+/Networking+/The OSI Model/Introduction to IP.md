@@ -2,6 +2,11 @@
 title: UNDERSTANDING IP, ENCAPSULATION, TCP/IP AND PORTS
 date: 2025-10-23
 source type: video
+tags:
+  - source
+  - Networkfoundations
+  - networking
+  - ports
 ---
 
 
