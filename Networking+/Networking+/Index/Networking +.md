@@ -16,4 +16,16 @@
 >2. [[20251020-Networking-Devices]]
 >3. [[2025-10-21-Autonomy-as-a-principle]]
 >4. [[20251022-Comfort and control]]
->5. 
+
+
+# CARDS
+>1. [[The Osi model - card]]
+>2. [[Application - card]]
+>3. [[Presentation - card]]
+>4. [[Session - card]]
+>5. [[Transport - card]]
+>6. [[Network - Card]]
+>7. [[Data Link - Card]]
+>8. [[Physical - Card]]
+>9. [[Routers - card]]
+>10. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Other Useful Protocols.md",
+                "file": "Flashcards/Routers - card.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Other Useful Protocols"
+              "title": "Routers - card"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,9 +170,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2c19bbc9e0304cf5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,47 +198,49 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Index/Networking +.md",
-    "Index/Other Useful Protocols.md",
-    "The OSI Model/Networking Devices.md",
-    "The OSI Model/Introduction to IP.md",
-    "The OSI Model/Designing the cloud.md",
-    "The OSI Model/The OSI Model.md",
-    "The OSI Model/Networking functions.md",
-    "The OSI Model/Common Ports.md",
-    "The OSI Model/Cloud Models.md",
+    "Flashcards/Routers - card.md",
+    "Networking + Source Notes/Networking Devices.md",
+    "Flashcards/Application - card.md",
+    "Flashcards/Untitled.md",
+    "Flashcards/Presentation - card.md",
+    "Flashcards/Session - card.md",
+    "Flashcards/Physical - Card.md",
+    "Flashcards/Data Link - Card.md",
+    "Flashcards/Transport - card.md",
+    "Flashcards/Network - Card.md",
+    "Flashcards/The Osi model - card.md",
+    "Study Index.md",
+    "Flashcards/Untitled Diagram.svg",
+    "Networking + Source Notes/The OSI Model/The OSI Model.md",
+    "Networking + Source Notes/Untitled",
+    "Networking + Source Notes/Untitled.md",
+    "Networking + Source Notes/Cloud Computing",
+    "Networking + Source Notes/The OSI Model",
+    "Networking + Source Notes/Cloud Computing/Designing the cloud.md",
+    "Networking + Source Notes/Common Ports.md",
+    "Networking + Source Notes/Cloud Computing/Cloud Models.md",
+    "Flashcards",
+    "Index/Untitled.md",
+    "Networking + Source Notes/Other Useful Protocols.md",
+    "Networking + Source Notes/Introduction to IP.md",
+    "Networking + Source Notes/Networking functions.md",
     "2025-10-25.md",
     "2025-10-23.md",
-    "Study Index.md",
     "Zattels/20251022-Comfort and control.md",
     "Zattels/20251020-The-Osi-Model-as-a-framework.md",
-    "Zattels/20251020-Networking-Devices.md",
-    "Zattels/2025-10-21-Autonomy-as-a-principle.md",
-    "The OSI Model/Untitled.md",
-    "2051020-The-Osi-Model-as-a-framework.md",
-    "2025-10-21.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
     "Zattels",
-    "The Osi Model - Index.md",
-    "The OSI Model/Networking Devices - Concepts.md",
     "Index",
-    "The OSI Model",
-    "Networking+/Untitled",
-    "Networking+/The OSI model",
-    "Networking+",
-    "2025-10-20.md",
-    "Networking Devices/Concepts.md",
-    "Networking Devices/Untitled.md",
-    "The OSI Model/THE OSI MODEL.md",
-    "The OSI Model/Layer 1 - Physical.md",
-    "Networking Devices",
-    "The OSI Model"
+    "Networking + Source Notes",
+    "Networking+/Untitled"
   ]
 }
