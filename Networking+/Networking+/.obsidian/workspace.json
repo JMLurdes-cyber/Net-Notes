@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/Routers - card.md",
+                "file": "Flashcards/Designing the Cloud/VPC - card.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Routers - card"
+              "title": "VPC - card"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Flashcards/Firewall - card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Firewall - card"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Flashcards/Firewall - card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Firewall - card"
             }
           },
           {
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -204,43 +203,43 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Flashcards/Designing the Cloud/VN - card.md",
+    "Flashcards/Designing the Cloud/NFV - card.md",
+    "Flashcards/Designing the Cloud/VPC - card.md",
     "Index/Networking +.md",
-    "Flashcards/Routers - card.md",
-    "Networking + Source Notes/Networking Devices.md",
-    "Flashcards/Application - card.md",
-    "Flashcards/Untitled.md",
-    "Flashcards/Presentation - card.md",
-    "Flashcards/Session - card.md",
-    "Flashcards/Physical - Card.md",
-    "Flashcards/Data Link - Card.md",
-    "Flashcards/Transport - card.md",
-    "Flashcards/Network - Card.md",
-    "Flashcards/The Osi model - card.md",
-    "Study Index.md",
-    "Flashcards/Untitled Diagram.svg",
-    "Networking + Source Notes/The OSI Model/The OSI Model.md",
-    "Networking + Source Notes/Untitled",
-    "Networking + Source Notes/Untitled.md",
-    "Networking + Source Notes/Cloud Computing",
-    "Networking + Source Notes/The OSI Model",
+    "Flashcards/Devices cards/Access Points - card.md",
     "Networking + Source Notes/Cloud Computing/Designing the cloud.md",
-    "Networking + Source Notes/Common Ports.md",
-    "Networking + Source Notes/Cloud Computing/Cloud Models.md",
-    "Flashcards",
-    "Index/Untitled.md",
+    "Flashcards/Designing the Cloud",
+    "Networking + Source Notes/The OSI Model/The OSI Model.md",
+    "Networking + Source Notes/Networking Devices.md",
+    "Flashcards/Networking Functions/VPN - card.md",
+    "Flashcards/Networking Functions/TTL - card.md",
+    "Flashcards/Networking Functions/Routing Loops - card.md",
+    "Flashcards/Networking Functions/QoS - card.md",
+    "Flashcards/Networking Functions/CDN - card.md",
     "Networking + Source Notes/Other Useful Protocols.md",
-    "Networking + Source Notes/Introduction to IP.md",
+    "Networking + Source Notes/Cloud Computing/Cloud Models.md",
+    "Flashcards/Cloud Models/Untitled.md",
+    "Flashcards/Cloud Models",
+    "Networking + Source Notes/Common Ports.md",
+    "Study Index.md",
     "Networking + Source Notes/Networking functions.md",
-    "2025-10-25.md",
-    "2025-10-23.md",
-    "Zattels/20251022-Comfort and control.md",
-    "Zattels/20251020-The-Osi-Model-as-a-framework.md",
-    "Untitled.canvas",
+    "Flashcards/Networking Functions",
+    "Flashcards/Devices cards/Routers - card.md",
+    "Flashcards/Devices cards/NAS and SAN - card.md",
+    "Flashcards/Devices cards/Load Balancers - card.md",
+    "Flashcards/Devices cards/IPS - card.md",
+    "Flashcards/Devices cards/IDS - card.md",
+    "Flashcards/Devices cards/Firewall - card.md",
+    "Flashcards/Devices cards/Switch - card.md",
     "Untitled 1.base",
+    "Untitled.canvas",
     "Untitled.base",
-    "Zattels",
-    "Index",
-    "Networking + Source Notes",
-    "Networking+/Untitled"
+    "Flashcards/Devices cards",
+    "Flashcards/OSI Layer",
+    "Flashcards/Untitled Diagram.svg",
+    "Networking + Source Notes/Untitled",
+    "Networking + Source Notes/Cloud Computing",
+    "Networking + Source Notes/The OSI Model"
   ]
 }

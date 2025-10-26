@@ -19,6 +19,7 @@
 
 
 # CARDS
+1. ***THE OSI MODEL***
 >1. [[The Osi model - card]]
 >2. [[Application - card]]
 >3. [[Presentation - card]]
@@ -27,5 +28,32 @@
 >6. [[Network - Card]]
 >7. [[Data Link - Card]]
 >8. [[Physical - Card]]
->9. [[Routers - card]]
+
+2. ***NETWORKING DEVICES***
+>1. [[Routers - card]]
+>2. [[Switch - card]]
+>3. [[Firewall - card]]
+>4. [[IDS - card]]
+>5. [[IPS - card]]
+>6. [[NAS and SAN - card]]
+>7. [[Load Balancers - card]]
+>8. [[Access Points - card]]
+
+3. ***NETWORKING FUNCTIONS***
+>1. [[CDN - card]]
+>2. [[VPN - card]]
+>3. [[QoS - card]]
+>4. [[TTL - card]]
+>5. [[Routing Loops - card]]
+
+4. ***CLOUD MODELS***
+>1. [[VN - card]]
+>2. [[NFV - card]]
+>3. [[VPC - card]]
+>4. [[VPC Gateway - card]]
+>5. [[VPC Endpoint - card]]
+>6. [[VPC NAT Gateway - card]]
+>7. [[VPC VPN - card]]
+>8. [[Security list - card]]
+>9. [[Security Group - card]]
 >10. 
