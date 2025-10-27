@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/Designing the Cloud/VPC - card.md",
+                "file": "Networking + Source Notes/Other Useful Protocols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VPC - card"
+              "title": "Other Useful Protocols"
             }
           }
         ]
@@ -203,9 +203,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Study Index.md",
+    "Flashcards/Designing the Cloud/VPC - card.md",
     "Flashcards/Designing the Cloud/VN - card.md",
     "Flashcards/Designing the Cloud/NFV - card.md",
-    "Flashcards/Designing the Cloud/VPC - card.md",
     "Index/Networking +.md",
     "Flashcards/Devices cards/Access Points - card.md",
     "Networking + Source Notes/Cloud Computing/Designing the cloud.md",
@@ -222,7 +223,6 @@
     "Flashcards/Cloud Models/Untitled.md",
     "Flashcards/Cloud Models",
     "Networking + Source Notes/Common Ports.md",
-    "Study Index.md",
     "Networking + Source Notes/Networking functions.md",
     "Flashcards/Networking Functions",
     "Flashcards/Devices cards/Routers - card.md",
