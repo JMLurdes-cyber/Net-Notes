@@ -1,0 +1,1 @@
+The IEEE is the organization responsible for the standards of many types of communication in networking, including Ethernet communications, wireless and many others. Those standards always follow a pattern: *802*.*x*, the x being the number associated with the standard.

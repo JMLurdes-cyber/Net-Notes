@@ -6,7 +6,9 @@
 >6. [[Introduction to IP]]
 >7. [[Common Ports]]
 >8. [[Other Useful Protocols]]
->9. 
+>9. [[Network Communication]]
+>10.[[Wireless Networks]]
+>
 
 
 
