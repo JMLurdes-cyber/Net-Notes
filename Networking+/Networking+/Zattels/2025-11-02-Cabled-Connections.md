@@ -1,0 +1,1 @@
+Different cables have different uses, but picking the right one is paramount since changing them ends up becoming a huge work, like at home, when we changed the Ethernet to the new one.

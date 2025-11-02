@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking + Source Notes/1/1.5/Wireless Networks.md",
+                "file": "Networking + Source Notes/1/1.5/Copper Cabling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wireless Networks"
+              "title": "Copper Cabling"
             }
           }
         ]
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,9 +203,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Networking + Source Notes/1/1.5/IEEE.md",
+    "Networking + Source Notes/1/1.5/Fiber Communication.md",
     "Networking + Source Notes/1/1.5/Wireless Networks.md",
+    "Networking + Source Notes/1/1.5/Copper Cabling.md",
     "Index/Networking +.md",
+    "Zattels/2025-11-02-Cabled-Connections.md",
+    "Study Index.md",
+    "Networking + Source Notes/1/1.5/Ethernet Standards.md",
+    "Flashcards/1.3",
+    "Flashcards/1.1",
+    "Flashcards/1.2",
+    "Networking + Source Notes/1/1.5/IEEE.md",
     "Networking + Source Notes/1",
     "Networking + Source Notes/1/1.5",
     "Networking + Source Notes/1/1.4/Network Communication.md",
@@ -214,32 +221,24 @@
     "Networking + Source Notes/1/1.3",
     "Networking + Source Notes/1/1.2",
     "Networking + Source Notes/1/1.1",
-    "Study Index.md",
-    "Flashcards/VPC Gateway - card.md",
+    "Flashcards/1.3/Designing the Cloud/VPC Gateway - card.md",
     "Networking + Source Notes/1/1.4/Other Useful Protocols.md",
     "Networking + Source Notes/1/1.3/Designing the cloud.md",
     "Networking + Source Notes/1/1.3/Cloud Models.md",
-    "Flashcards/Designing the Cloud/VPC - card.md",
-    "Flashcards/Designing the Cloud/VN - card.md",
-    "Flashcards/Designing the Cloud/NFV - card.md",
-    "Flashcards/Devices cards/Access Points - card.md",
-    "Flashcards/Designing the Cloud",
+    "Flashcards/1.3/Designing the Cloud/VPC - card.md",
+    "Flashcards/1.3/Designing the Cloud/VN - card.md",
+    "Flashcards/1.3/Designing the Cloud/NFV - card.md",
+    "Flashcards/1.2/Devices cards/Access Points - card.md",
+    "Flashcards/1.3/Designing the Cloud",
     "Networking + Source Notes/1/1.1/The OSI Model.md",
     "Networking + Source Notes/1/1.2/Networking Devices.md",
-    "Flashcards/Networking Functions/VPN - card.md",
-    "Flashcards/Networking Functions/TTL - card.md",
-    "Flashcards/Networking Functions/Routing Loops - card.md",
-    "Flashcards/Networking Functions/QoS - card.md",
-    "Flashcards/Networking Functions/CDN - card.md",
+    "Flashcards/1.2/Networking Functions/VPN - card.md",
+    "Flashcards/1.2/Networking Functions/TTL - card.md",
+    "Flashcards/1.2/Networking Functions/Routing Loops - card.md",
+    "Flashcards/1.2/Networking Functions/QoS - card.md",
+    "Flashcards/1.2/Networking Functions/CDN - card.md",
     "Flashcards/Cloud Models/Untitled.md",
-    "Flashcards/Cloud Models",
     "Networking + Source Notes/1/1.4/Common Ports.md",
-    "Networking + Source Notes/1/1.2/Networking functions.md",
-    "Flashcards/Networking Functions",
-    "Flashcards/Devices cards/Routers - card.md",
-    "Flashcards/Devices cards/NAS and SAN - card.md",
-    "Flashcards/Devices cards/Load Balancers - card.md",
-    "Untitled 1.base",
     "Untitled.canvas",
     "Flashcards/Untitled Diagram.svg"
   ]

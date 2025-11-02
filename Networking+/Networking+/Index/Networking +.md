@@ -1,14 +1,24 @@
+## 1.2
 >1. [[The OSI Model]]
->2. [[Networking Devices]]
->3. [[Networking functions]]
->4. [[Designing the cloud]]
->5. [[Cloud Models]]
->6. [[Introduction to IP]]
->7. [[Common Ports]]
->8. [[Other Useful Protocols]]
->9. [[Network Communication]]
->10.[[Wireless Networks]]
->
+
+## 1. 3
+>1. [[Networking Devices]]
+>2. [[Networking functions]]
+
+## 1.4
+>1. [[Designing the cloud]]
+>2. [[Cloud Models]]
+>3. [[Introduction to IP]]
+>4. [[Common Ports]]
+>5. [[Other Useful Protocols]]
+>6. [[Network Communication]]
+
+## 1.5
+>1. [[Wireless Networks]]
+>2. [[Ethernet Standards]]
+>3. [[Fiber Communication]]
+>4. [[Copper Cabling]]
+>5. 
 
 
 
